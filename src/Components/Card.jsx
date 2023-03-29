@@ -1,5 +1,4 @@
 import React from "react";
-import charmander from "../image/charmander.png";
 
 const Card = ({ pokemon, loading, infoPokemon }) => {
   console.log(pokemon);
